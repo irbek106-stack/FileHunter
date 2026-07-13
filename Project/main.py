@@ -157,7 +157,7 @@ def settings():
 def info():
     print("\nℹ️ ИНФОРМАЦИЯ\n"+"="*50)
     print("HUNTERfile - это автоматизированная система для мониторинга файлого мусора и нарушения хранения файлов")
-    print("Файловый сканер HUNTERfile\nБиблиотеки: pathlib, hashlib, re\n")
+    print("HUNTERfile использует Библиотеки: pathlib, hashlib, re\n")
     print("Функции: большие, старые, плохие имена, дубликаты")
     print("Комбинированный поиск, интерактивное удаление")
     print("Ссылка на картинку лупы https://text-image.ru/news/")
